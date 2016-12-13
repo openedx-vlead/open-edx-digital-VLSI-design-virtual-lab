@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="2.Which of the following is NOT TRUE about a multiplexer?&#10;(x) For a 2^n input MUX, there are n output lines&#10;( ) MUX is a combinational circuit&#10;( ) MUX can be implemented using three-state gates&#10;( ) Apart from input and output lines, it has selection lines also">
+<p>2.Which of the following is NOT TRUE about a multiplexer?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">For a 2^n input MUX, there are n output lines</choice>
+    <choice correct="false">MUX is a combinational circuit</choice>
+    <choice correct="false">MUX can be implemented using three-state gates</choice>
+    <choice correct="false">Apart from input and output lines, it has selection lines also</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

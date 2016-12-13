@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="5.Which of the following is TRUE at the switching threshold of a static CMOS inverter?&#10;( ) Input voltage is equal to output voltage&#10;( ) nMOS and pMOS are in saturation mode&#10;( ) Vds=Vgs for both devices&#10;(x) All the above&#10;">
+<p>5.Which of the following is TRUE at the switching threshold of a static CMOS inverter?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Input voltage is equal to output voltage</choice>
+    <choice correct="false">nMOS and pMOS are in saturation mode</choice>
+    <choice correct="false">Vds=Vgs for both devices</choice>
+    <choice correct="true">All the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

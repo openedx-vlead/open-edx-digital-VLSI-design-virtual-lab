@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="3. If the pMOS transistor size is increased with respect to the nMOS size, what happen to the tpLH of the inverter?&#10;( ) tpLH will increase&#10;( ) tpLH will decrease&#10;( ) tpHL will not change&#10;(x) None of the above&#10;">
+<p>3. If the pMOS transistor size is increased with respect to the nMOS size, what happen to the tpLH of the inverter?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">tpLH will increase</choice>
+    <choice correct="false">tpLH will decrease</choice>
+    <choice correct="false">tpHL will not change</choice>
+    <choice correct="true">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

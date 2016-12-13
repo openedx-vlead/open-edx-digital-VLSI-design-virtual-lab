@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="1.Which of the following is the correct output expression for an 4x1 MUX? [Given D0, D1, D2, D3 are the data inputs and S0, S1 are the select inputs].&#10;( ) Y = D0*D1*S0 + D2*D3*S1&#10;(x) Y = D0*S1'*S0' + D1*S1'*S0 + D2*S1*S0' + D3*S1*S0&#10;( ) Y = D0*S0' + D1*S1' + D2*S0 + D3*S1&#10;( ) Y = D0*D1*S0 + D2*D3*S1 + D0'*D1'*S0 + D2'*D3'*S1">
+<p>1.Which of the following is the correct output expression for an 4x1 MUX? [Given D0, D1, D2, D3 are the data inputs and S0, S1 are the select inputs].</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Y = D0*D1*S0 + D2*D3*S1</choice>
+    <choice correct="true">Y = D0*S1'*S0' + D1*S1'*S0 + D2*S1*S0' + D3*S1*S0</choice>
+    <choice correct="false">Y = D0*S0' + D1*S1' + D2*S0 + D3*S1</choice>
+    <choice correct="false">Y = D0*D1*S0 + D2*D3*S1 + D0'*D1'*S0 + D2'*D3'*S1</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
