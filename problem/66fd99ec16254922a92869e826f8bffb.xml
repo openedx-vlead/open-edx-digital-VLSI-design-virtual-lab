@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="5. In a dynamic latch, which of the following is NOT TRUE?&#10;( ) Output level is corrupted by the leakage current&#10;( ) Output level is corrupted by the charge sharing capacitors&#10;( ) Output level is corrupted by the clock feedthrough&#10;(x) Output level is corrupted by the initial conditions (voltage) across the load capacitance">
+<p>5. In a dynamic latch, which of the following is NOT TRUE?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Output level is corrupted by the leakage current</choice>
+    <choice correct="false">Output level is corrupted by the charge sharing capacitors</choice>
+    <choice correct="false">Output level is corrupted by the clock feedthrough</choice>
+    <choice correct="true">Output level is corrupted by the initial conditions (voltage) across the load capacitance</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

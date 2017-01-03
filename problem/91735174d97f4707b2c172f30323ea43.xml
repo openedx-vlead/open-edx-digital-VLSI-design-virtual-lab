@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="1.Which of the following is NOT TRUE for a cross-coupled inverter circuit? &#10;( ) Output remains constant at either 1 or 0 for infinite time&#10;(x) The power reset operation results in a predictable output&#10;( ) One way of changing the output is by cutting the feedback loop open&#10;( ) The output can also be changed by overpowering the feedback loop&#10;">
+<p>1.Which of the following is NOT TRUE for a cross-coupled inverter circuit? </p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Output remains constant at either 1 or 0 for infinite time</choice>
+    <choice correct="true">The power reset operation results in a predictable output</choice>
+    <choice correct="false">One way of changing the output is by cutting the feedback loop open</choice>
+    <choice correct="false">The output can also be changed by overpowering the feedback loop</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

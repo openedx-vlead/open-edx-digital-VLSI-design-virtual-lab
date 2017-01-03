@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="1.Which of the following gate will result in larger pMOS transistor size?&#10;( ) NAND&#10;(x) NOR&#10;( ) Both NAND and NOR&#10;( ) None of the above">
+<p>1.Which of the following gate will result in larger pMOS transistor size?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">NAND</choice>
+    <choice correct="true">NOR</choice>
+    <choice correct="false">Both NAND and NOR</choice>
+    <choice correct="false">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

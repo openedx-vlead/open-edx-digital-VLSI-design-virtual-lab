@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="4. To increase the frequency of oscillation, which of the following can be utilized? (a) Applied power supply voltage may be increased. (b) Reduce the number of inverter stages.&#10;( ) (a) only&#10;( ) (b) only&#10;(x) both (a) and (b)&#10;( ) neither (a) nor (b)">
+<p>4. To increase the frequency of oscillation, which of the following can be utilized? (a) Applied power supply voltage may be increased. (b) Reduce the number of inverter stages.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">(a) only</choice>
+    <choice correct="false">(b) only</choice>
+    <choice correct="true">both (a) and (b)</choice>
+    <choice correct="false">neither (a) nor (b)</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="1.The maximum and minimum logic levels of a static CMOS inverter depends on&#10;( ) The size of the transistors&#10;( ) The Vt of the transistors&#10;( ) The load capacitance&#10;(x) None of the above">
+<p>1.The maximum and minimum logic levels of a static CMOS inverter depends on</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">The size of the transistors</choice>
+    <choice correct="false">The Vt of the transistors</choice>
+    <choice correct="false">The load capacitance</choice>
+    <choice correct="true">None of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

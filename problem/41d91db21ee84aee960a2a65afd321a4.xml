@@ -1,0 +1,13 @@
+<problem display_name="Multiple Choice" markdown="5. Which of the following statement is NOT TRUE about the CMOS dynamic logic circuit design?&#10;( ) A clock signal is used to evaluate combinational logic&#10;( ) Dynamic logic is faster than static logic&#10;(x) Dynamic logic has low switching probability compared to static logic&#10;( ) Dynamic logic is not suitable for low frequency application">
+<p>5. Which of the following statement is NOT TRUE about the CMOS dynamic logic circuit design?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">A clock signal is used to evaluate combinational logic</choice>
+    <choice correct="false">Dynamic logic is faster than static logic</choice>
+    <choice correct="true">Dynamic logic has low switching probability compared to static logic</choice>
+    <choice correct="false">Dynamic logic is not suitable for low frequency application</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
