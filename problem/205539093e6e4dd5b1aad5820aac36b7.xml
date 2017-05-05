@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="4. For the correct operation of a shift register, which of the following conditions are important? (a) Clock period &gt; setup time + hold time, (b) Clock to output delay &gt; hold time.&#10;( ) (a) only&#10;( ) (b) only&#10;(x) both (a) and (b)&#10;( ) neither of them matter">
-<p>4. For the correct operation of a shift register, which of the following conditions are important? (a) Clock period &gt; setup time + hold time, (b) Clock to output delay &gt; hold time.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">(a) only</choice>
-    <choice correct="false">(b) only</choice>
-    <choice correct="true">both (a) and (b)</choice>
-    <choice correct="false">neither of them matter</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>4. For the correct operation of a shift register, which of the following conditions are important? (a) Clock period &gt; setup time + hold time, (b) Clock to output delay &gt; hold time.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">(a) only</choice>
+      <choice correct="false">(b) only</choice>
+      <choice correct="true">both (a) and (b)</choice>
+      <choice correct="false">neither of them matter</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

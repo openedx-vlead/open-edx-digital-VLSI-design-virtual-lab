@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="4. What happens to delay if you increase load capacitance?&#10;( ) no change&#10;(x) delay increases&#10;( ) delay decreases&#10;( ) None of the above&#10;">
-<p>4. What happens to delay if you increase load capacitance?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">no change</choice>
-    <choice correct="true">delay increases</choice>
-    <choice correct="false">delay decreases</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>4. What happens to delay if you increase load capacitance?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">no change</choice>
+      <choice correct="true">delay increases</choice>
+      <choice correct="false">delay decreases</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
