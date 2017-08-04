@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="3. The oscillation in a ring oscillator is ensured when&#10;(x) The number of inverter stages are larger&#10;( ) The rise time is larger&#10;( ) The fall time is larger&#10;( ) The delay of each inverter is smaller">
-<p>3. The oscillation in a ring oscillator is ensured when</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">The number of inverter stages are larger</choice>
-    <choice correct="false">The rise time is larger</choice>
-    <choice correct="false">The fall time is larger</choice>
-    <choice correct="false">The delay of each inverter is smaller</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>3. The oscillation in a ring oscillator is ensured when</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">The number of inverter stages are larger</choice>
+      <choice correct="false">The rise time is larger</choice>
+      <choice correct="false">The fall time is larger</choice>
+      <choice correct="false">The delay of each inverter is smaller</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

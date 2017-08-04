@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="4. Which of the following are TRUE about a dynamic latch? (a) It stores charge on parasitic capacitor. (b) It's output state is robust. (c) It operates through feedback. (d) It is faster and smaller.&#10;( ) (a) and (b)&#10;( ) (b) and (c)&#10;( ) (c) and (d) &#10;(x) (d) and (a)&#10;&#10;">
-<p>4. Which of the following are TRUE about a dynamic latch? (a) It stores charge on parasitic capacitor. (b) It's output state is robust. (c) It operates through feedback. (d) It is faster and smaller.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">(a) and (b)</choice>
-    <choice correct="false">(b) and (c)</choice>
-    <choice correct="false">(c) and (d)</choice>
-    <choice correct="true">(d) and (a)</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>4. Which of the following are TRUE about a dynamic latch? (a) It stores charge on parasitic capacitor. (b) It's output state is robust. (c) It operates through feedback. (d) It is faster and smaller.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">(a) and (b)</choice>
+      <choice correct="false">(b) and (c)</choice>
+      <choice correct="false">(c) and (d)</choice>
+      <choice correct="true">(d) and (a)</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

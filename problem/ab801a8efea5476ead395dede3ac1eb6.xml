@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="4. The advantage of using transmission gate logic over pass transistor logic is&#10;( ) The number of transistors is reduced&#10;( ) The primary inputs only drive the gate terminals of the MOSFET&#10;(x) It gives a solution to the voltage-drop problem&#10;( ) They have no associated series resistances">
-<p>4. The advantage of using transmission gate logic over pass transistor logic is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">The number of transistors is reduced</choice>
-    <choice correct="false">The primary inputs only drive the gate terminals of the MOSFET</choice>
-    <choice correct="true">It gives a solution to the voltage-drop problem</choice>
-    <choice correct="false">They have no associated series resistances</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>4. The advantage of using transmission gate logic over pass transistor logic is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">The number of transistors is reduced</choice>
+      <choice correct="false">The primary inputs only drive the gate terminals of the MOSFET</choice>
+      <choice correct="true">It gives a solution to the voltage-drop problem</choice>
+      <choice correct="false">They have no associated series resistances</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

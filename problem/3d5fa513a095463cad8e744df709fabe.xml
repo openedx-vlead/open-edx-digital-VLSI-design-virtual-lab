@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="3. An nMOS transistor in 180nm technology has Vdd=1.8V, Vtn=0.5V, Vgs=3V. The transistor is in saturation when&#10;( ) Vds=0&#10;( ) Vds is lower than 2.5V&#10;(x) Vds is greater than 2.5V&#10;( ) Independent of Vds&#10;&#10;">
-<p>3. An nMOS transistor in 180nm technology has Vdd=1.8V, Vtn=0.5V, Vgs=3V. The transistor is in saturation when</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Vds=0</choice>
-    <choice correct="false">Vds is lower than 2.5V</choice>
-    <choice correct="true">Vds is greater than 2.5V</choice>
-    <choice correct="false">Independent of Vds</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>3. An nMOS transistor in 180nm technology has Vdd=1.8V, Vtn=0.5V, Vgs=3V. The transistor is in saturation when</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Vds=0</choice>
+      <choice correct="false">Vds is lower than 2.5V</choice>
+      <choice correct="true">Vds is greater than 2.5V</choice>
+      <choice correct="false">Independent of Vds</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

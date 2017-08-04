@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="5.How the frequency of oscillation affected by the increase in temperature of a ring oscillator?&#10;( ) frequency increases with increase in temperature&#10;(x) frequency decreases with increase in temperature&#10;( ) frequency remains the same&#10;( ) frequency increases first and then decreases">
-<p>5.How the frequency of oscillation affected by the increase in temperature of a ring oscillator?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">frequency increases with increase in temperature</choice>
-    <choice correct="true">frequency decreases with increase in temperature</choice>
-    <choice correct="false">frequency remains the same</choice>
-    <choice correct="false">frequency increases first and then decreases</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>5.How the frequency of oscillation affected by the increase in temperature of a ring oscillator?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">frequency increases with increase in temperature</choice>
+      <choice correct="true">frequency decreases with increase in temperature</choice>
+      <choice correct="false">frequency remains the same</choice>
+      <choice correct="false">frequency increases first and then decreases</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

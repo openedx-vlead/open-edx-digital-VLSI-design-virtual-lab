@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="2.Which of the following is preferred for realizing pull down network (PDN)?&#10;(x) nMOS&#10;( ) pMOS&#10;( ) Both nMOS and pMOS&#10;( ) None of the above">
-<p>2.Which of the following is preferred for realizing pull down network (PDN)?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">nMOS</choice>
-    <choice correct="false">pMOS</choice>
-    <choice correct="false">Both nMOS and pMOS</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>2.Which of the following is preferred for realizing pull down network (PDN)?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">nMOS</choice>
+      <choice correct="false">pMOS</choice>
+      <choice correct="false">Both nMOS and pMOS</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

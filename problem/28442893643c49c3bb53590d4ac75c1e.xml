@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="3.The set up time of a register is&#10;( ) the time after the rising edge of the clock that the input data must be valid&#10;(x) the time before the rising edge of the clock that the input data must be valid&#10;( ) the time after the rising edge of the clock that the output data must be valid&#10;( ) the time before the rising edge of the clock that the output data must be valid">
-<p>3.The set up time of a register is</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">the time after the rising edge of the clock that the input data must be valid</choice>
-    <choice correct="true">the time before the rising edge of the clock that the input data must be valid</choice>
-    <choice correct="false">the time after the rising edge of the clock that the output data must be valid</choice>
-    <choice correct="false">the time before the rising edge of the clock that the output data must be valid</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>3.The set up time of a register is</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">the time after the rising edge of the clock that the input data must be valid</choice>
+      <choice correct="true">the time before the rising edge of the clock that the input data must be valid</choice>
+      <choice correct="false">the time after the rising edge of the clock that the output data must be valid</choice>
+      <choice correct="false">the time before the rising edge of the clock that the output data must be valid</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

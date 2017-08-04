@@ -1,13 +1,11 @@
 <problem display_name="Multiple Choice" markdown="4. Let A and B be two inputs of the NAND gate. Say signal A arrives at the NAND gate later than signal B. To optimize delay of the two series NMOS inputs A and B which one would you place near to the output?&#10;(x) Input A should go to the nMOS transistor closer to output&#10;( ) Input B should go to the nMOS transistor closer to output&#10;( ) Doesn't make any difference&#10;( ) None of the above">
-<p>4. Let A and B be two inputs of the NAND gate. Say signal A arrives at the NAND gate later than signal B. To optimize delay of the two series NMOS inputs A and B which one would you place near to the output?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Input A should go to the nMOS transistor closer to output</choice>
-    <choice correct="false">Input B should go to the nMOS transistor closer to output</choice>
-    <choice correct="false">Doesn't make any difference</choice>
-    <choice correct="false">None of the above</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>4. Let A and B be two inputs of the NAND gate. Say signal A arrives at the NAND gate later than signal B. To optimize delay of the two series NMOS inputs A and B which one would you place near to the output?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Input A should go to the nMOS transistor closer to output</choice>
+      <choice correct="false">Input B should go to the nMOS transistor closer to output</choice>
+      <choice correct="false">Doesn't make any difference</choice>
+      <choice correct="false">None of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
